@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @TheGamingmatic
-- 👀 I’m interested in Unity
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on my games on unity
-- 📫 How to reach me ThatGamingmatic#1306
+- For contacting me please DM my discord account and state you came from Gtihub (if not I'll most likely ignore you 🤷) TheGamingmatic "Grumbo"
 
 <!---
 TheGamingmatic/TheGamingmatic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
